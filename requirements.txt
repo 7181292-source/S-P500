@@ -1,0 +1,7 @@
+streamlit
+yfinance
+matplotlib
+pandas
+snscrape
+googletrans==4.0.0-rc1
+textblob
